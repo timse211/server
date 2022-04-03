@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>testfire</short>
+  <port protocol="tcp" port="111"/>
+  <port protocol="udp" port="111"/>
+  <port protocol="tcp" port="80"/>
+  <port protocol="udp" port="80"/>
+  <port protocol="tcp" port="2049"/>
+  <port protocol="udp" port="2049"/>
+  <port protocol="tcp" port="875"/>
+  <port protocol="udp" port="875"/>
+  <port protocol="tcp" port="892"/>
+  <port protocol="udp" port="892"/>
+  <port protocol="tcp" port="32803"/>
+  <port protocol="udp" port="32803"/>
+  <port protocol="tcp" port="32769"/>
+  <port protocol="udp" port="32769"/>
+  <port protocol="tcp" port="443"/>
+  <port protocol="udp" port="443"/>
+  <port protocol="tcp" port="20"/>
+  <port protocol="udp" port="20"/>
+  <port protocol="tcp" port="21"/>
+  <port protocol="udp" port="21"/>
+</service>
